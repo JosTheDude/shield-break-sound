@@ -1,0 +1,7 @@
+name: ShieldBreakNoise
+version: '${project.version}'
+main: xyz.joscodes.shieldbreak.shieldbreaksound.Shieldbreaksound
+api-version: 1.18
+authors: [ Jos ]
+description: A sound for breaking someone's shield for both the attacker and victim
+website: https://joscodes.xyz
