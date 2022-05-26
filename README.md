@@ -9,6 +9,6 @@ https://nxh.app/
 
 <details>
   <summary>Updates, bugs, and whatever</summary>
-  no i am not updating this, it's literally 32 lines of code. if you somehow find a "super major bug" with it, then i'll fix it but x to doubt.
-  (if you somehow do put it in github issues and dm me on discord, Dank JosBot#1001 {not like i expect it but just to be sure})
+  no i am not updating this, it's literally 32 lines of code. if you somehow find a "super major bug" with it, then i'll fix it... maybe.
+  (if you somehow do put it in github issues and dm me on discord, Dank JosBot#1001 {not like i expect it but just to be sure lol})
 </details>
