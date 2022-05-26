@@ -27,5 +27,6 @@ public class Shieldbreaksound extends JavaPlugin implements Listener {
 		final Player damager = (Player) event.getDamager();
 		if (damager.getEquipment().getItemInMainHand().getType().toString().toLowerCase().contains("axe") && player.isBlocking() && (int) event.getFinalDamage() == 0)
 			damager.playSound(damager.getLocation(), Sound.ENTITY_WITHER_SKELETON_HURT, 1.0F, 1.0F);
+		// yeah im so lazy i didnt add a config to the noise, fight me
 	}
 }
