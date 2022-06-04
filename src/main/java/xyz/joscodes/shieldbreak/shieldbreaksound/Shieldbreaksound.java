@@ -10,7 +10,7 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
 
-public class Shieldbreaksound extends JavaPlugin implements Listener {
+public class ShieldBreakSound extends JavaPlugin implements Listener {
 	final FileConfiguration config = this.getConfig();
 
 	@Override
