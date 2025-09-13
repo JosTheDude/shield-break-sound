@@ -1,7 +1,7 @@
-name: ShieldBreakNoise
+name: ShieldBreakSound
 version: '${project.version}'
-main: xyz.joscodes.shieldbreak.shieldbreaksound.Shieldbreaksound
+main: gg.jos.ShieldBreakSound.ShieldBreakSound
 api-version: 1.18
-authors: [ Jos ]
-description: A sound for breaking someone's shield for both the attacker and victim
-website: https://joscodes.xyz
+authors: [ JosTheDude ]
+description: Simple plugin which plays a sound for both attackers and victims upon a shield disable.
+website: https://jos.gg/

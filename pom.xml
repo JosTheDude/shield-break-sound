@@ -4,19 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>xyz.joscodes.shieldbreak</groupId>
-    <artifactId>shieldbreaksound</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>gg.jos.ShieldBreakSound</groupId>
+    <artifactId>ShieldBreakSound</artifactId>
+    <version>2.0</version>
     <packaging>jar</packaging>
 
-    <name>ShieldBreakNoise</name>
+    <name>ShieldBreakSound</name>
 
-    <description>A sound for breaking someone's shield for both the attacker and victim</description>
+    <description>Simple plugin which plays a sound for both attackers and victims upon a shield disable.</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://joscodes.xyz</url>
+    <url>https://jos.gg/</url>
 
     <build>
         <plugins>

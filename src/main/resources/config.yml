@@ -1,2 +1,12 @@
 noise: ENTITY_WITHER_SKELETON_HURT
+volume: 1.0
+pitch: 1.0
+axes:
+  - WOODEN_AXE
+  - STONE_AXE
+  - IRON_AXE
+  - GOLDEN_AXE
+  - DIAMOND_AXE
+  - NETHERITE_AXE
 # Valid Sounds List: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+# Valid Materials List: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
