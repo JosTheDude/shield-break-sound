@@ -1,9 +1,7 @@
-# shield-break-sound
+# Shield Break Sound
 Simple plugin that plays a sound to both attackers & victims upon a shield disable.
 
-This plugin is extremely minimal and should work cross-version with minimal issue.
-
-Spigot Page: https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/
+Spigot Page: [Click Here](https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/)
 
 ## Features
 - Customizable Sound to Attackers & Victims on Shield disable

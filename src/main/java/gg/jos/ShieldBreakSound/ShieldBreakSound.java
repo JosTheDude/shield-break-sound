@@ -11,11 +11,10 @@ public class ShieldBreakSound extends JavaPlugin {
     public void onEnable() {
 
         // Set up config defaults
-        this.getConfig().addDefault("noise", "ENTITY_SHIELD_BREAK");
-		this.getConfig().options().copyDefaults(true);
+        this.saveDefaultConfig();
 		this.saveConfig();
 
         // Register event listener
-        getServer().getPluginManager().registerEvents(new ShieldBreakEvent(this, getConfig()), this);
+        this.getServer().getPluginManager().registerEvents(new ShieldBreakEvent(this, getConfig()), this);
     }
 }

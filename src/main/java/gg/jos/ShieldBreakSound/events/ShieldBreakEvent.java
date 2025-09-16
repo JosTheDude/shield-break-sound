@@ -23,8 +23,6 @@ public class ShieldBreakEvent implements Listener {
 
     /**
      * Constructor for ShieldBreakEvent.
-     * @param shieldBreakSound
-     * @param config
      */
     public ShieldBreakEvent(ShieldBreakSound shieldBreakSound, FileConfiguration config) {
         this.shieldBreakSound = shieldBreakSound;
@@ -34,7 +32,6 @@ public class ShieldBreakEvent implements Listener {
 
     /**
      * Event handler for when a player is hit by another entity and checking if it when a player has their axe disabled.
-     * @param event
      */
     @EventHandler
     public void onAxeDisableShield(EntityDamageByEntityEvent event) {

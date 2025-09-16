@@ -1,6 +1,13 @@
-noise: ENTITY_WITHER_SKELETON_HURT
+# ShieldBreakSound
+# https://github.com/JosTheDude/shield-break-sound
+
+# Sound customization upon a shield disable.
+noise: ITEM_SHIELD_BREAK
 volume: 1.0
 pitch: 1.0
+
+# Valid Tools which can disable a shield.
+# This typically is fine as default unless custom disabler tools are added via plugins and/or datapacks.
 axes:
   - WOODEN_AXE
   - STONE_AXE
@@ -8,5 +15,6 @@ axes:
   - GOLDEN_AXE
   - DIAMOND_AXE
   - NETHERITE_AXE
+
 # Valid Sounds List: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
 # Valid Materials List: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
