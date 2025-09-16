@@ -1,16 +1,18 @@
 # shield-break-sound
-Extends on the shield break sound in minecraft by playing a shield break sound to the attacker when their opponent's shield breaks.
+Simple plugin that plays a sound to both attackers & victims upon a shield disable.
 
-https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/
+This plugin is extremely minimal and should work cross-version with minimal issue.
 
-https://joscodes.xyz/
+Spigot Page: https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/
 
-https://nxh.app/
+## Features
+- Customizable Sound to Attackers & Victims on Shield disable
+- Customizable Volume & Pitch
 
-<details>
-  <summary>Updates, bugs, and whatever</summary>
-  no i am not updating this, it's literally 32 lines of code. if you somehow find a "super major bug" with it, then i'll fix it... maybe.
-  (if you somehow do put it in github issues and dm me on discord, Dank JosBot#1001 {not like i expect it but just to be sure lol})
+## Feature Requests & Contributing
+If you'd like to contribute, simply make an issue with your proposed feature/enhancement or browse existing issues that are approved and make a pull request! PRs are accepted at this time.
 
-yes I know I didn't follow coding standards for camel case and had useless casts
-</details>
+## Support & Issues
+Want to make a suggestion? Having an issue? Open a GitHub Issue [here](https://github.com/JosTheDude/shield-break-sound/issues) and let me know!
+
+Found an exploit? Reach out ASAP to @josbot over Discord and let me know.
