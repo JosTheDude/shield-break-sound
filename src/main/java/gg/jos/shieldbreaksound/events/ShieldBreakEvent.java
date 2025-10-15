@@ -68,8 +68,8 @@ public class ShieldBreakEvent implements Listener {
 
     /**
      * Check if the given material is an axe (from the config)
-     * @param material
-     * @return
+     * @param material Item material to check if axe
+     * @return boolean represents if value is an axe
      */
     private boolean isAxe(Material material) {
         return axeMaterials.contains(material);
@@ -77,8 +77,8 @@ public class ShieldBreakEvent implements Listener {
 
     /**
      * Load axe materials from the configuration.
-     * @param config
-     * @return
+     * @param config Configuration object
+     * @return Set of Valid Axe Materials from configuration
      */
     private Set<Material> loadAxeMaterials(FileConfiguration config) {
         Set<Material> axes = new HashSet<>();

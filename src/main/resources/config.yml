@@ -2,6 +2,7 @@
 # https://github.com/JosTheDude/shield-break-sound
 
 # Sound customization upon a shield disable.
+sound-enabled: true
 noise: ITEM_SHIELD_BREAK
 volume: 1.0
 pitch: 1.0
