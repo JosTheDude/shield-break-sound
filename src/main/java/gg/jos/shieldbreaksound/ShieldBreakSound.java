@@ -29,7 +29,7 @@ public class ShieldBreakSound extends JavaPlugin {
      * Load configuration values
      */
     private void loadConfig() {
-        this.soundEnabled = getConfig().getBoolean("sound.enabled", true);
+        this.soundEnabled = getConfig().getBoolean("sound-enabled", true);
     }
 
     /**
