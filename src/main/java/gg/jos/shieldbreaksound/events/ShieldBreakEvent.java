@@ -1,6 +1,6 @@
-package gg.jos.ShieldBreakSound.events;
+package gg.jos.shieldbreaksound.events;
 
-import gg.jos.ShieldBreakSound.ShieldBreakSound;
+import gg.jos.shieldbreaksound.ShieldBreakSound;
 import org.bukkit.event.Listener;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;

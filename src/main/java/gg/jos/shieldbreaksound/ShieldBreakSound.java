@@ -1,6 +1,6 @@
-package gg.jos.ShieldBreakSound;
+package gg.jos.shieldbreaksound;
 
-import gg.jos.ShieldBreakSound.events.ShieldBreakEvent;
+import gg.jos.shieldbreaksound.events.ShieldBreakEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
