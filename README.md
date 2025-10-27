@@ -1,5 +1,5 @@
 # Shield Break Sound
-Simple plugin that plays a sound to both attackers & victims upon a shield disable.
+Play a sound to the attacker when they disable a victims' shield. This is extremely useful for PvP servers where there is no vanilla indication that a victims' shield has been disabled.
 
 Spigot Page: [Click Here](https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/)
 
